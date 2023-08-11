@@ -2,66 +2,21 @@
 
 ## Colour Palette
 
-You can get PDFs of the swatches [here]().
+You can get PDFs and JPEGs of the swatches [here](https://github.com/LUCompSoc/brand/tree/rebrand-23/swatches).
 
-<style>
-.swatch{
-width:5rem;
-height:5rem;
-margin:1rem;
-}
-.row{
-display:flex;
-}
-.swatch-wrapper{
-display:flex;
- flex-direction: column;
-}
-</style>
+![Dark theme swatches](https://github.com/LUCompSoc/brand/blob/rebrand-23/swatches/dark_theme_swatches.jpg?raw=true)
 
-### Dark Theme
-
-<div class="row">
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#EC5042;"></div>
-        <span>#EC5042</span>
-    </div>
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#D14537;"></div>
-        <span>#D14537</span>
-    </div>
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#333333;"></div>
-        <span>#333333</span>
-    </div>
-</div>
-
-### Light Theme
-
-<div class="row">
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#D12415;"></div>
-        <span>#D12415</span>
-    </div>
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#AE3428;"></div>
-        <span>#AE3428</span>
-    </div>
-    <div class="swatch-wrapper">
-        <div class="swatch" style="background-color:#FFFFFF;"></div>
-        <span>#FFFFFF</span>
-    </div>
-</div>
+![Light theme swatches](https://github.com/LUCompSoc/brand/blob/rebrand-23/swatches/light_theme_swatches.jpg?raw=true)
 
 ## Fonts
 
 The logo uses the [Rajdhani](https://fonts.google.com/specimen/Rajdhani?query=Rajdhani) font. 
-For consitentcy, stick to sans-serif fonts.
+For consistency, stick to sans-serif fonts.
 
 ## Logos
 
-Please see the [logos](https://github.com/LUCompSoc/brand/tree/master/logos) folder for files.
+Please see the [logos](https://github.com/LUCompSoc/brand/tree/rebrand-23/logos) folder for files.
 
-![Dark Logo]()
+![Dark Logo](https://github.com/LUCompSoc/brand/blob/rebrand-23/logos/dark_theme.jpg?raw=true)
 
-![Light Logo]()
+![Light Logo](https://github.com/LUCompSoc/brand/blob/rebrand-23/logos/light_theme.jpg?raw=true)
