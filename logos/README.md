@@ -4,13 +4,13 @@
 
 There are three variants of the logo provided:
 - [Bare](https://github.com/LUCompSoc/brand/tree/master/logos/bare) - This should only be used for **tiny versions like the website favicon**
-<img src="./logos/bare/compsoc-logo-bare-1024x1024.png?raw=true" alt="Bare Logo" height="128"/>
+<img src="/logos/bare/compsoc-logo-bare-1024x1024.png?raw=true" alt="Bare Logo" height="128"/>
 
 - [Normal](https://github.com/LUCompSoc/brand/tree/master/logos/normal) - This is better for **larger use cases** (above 128x128)
-<img src="./logos/normal/compsoc-logo-normal-1024x1024.png?raw=true" alt="Normal Logo" height="128"/>
+<img src="/logos/normal/compsoc-logo-normal-1024x1024.png?raw=true" alt="Normal Logo" height="128"/>
 
 - [Sticker](https://github.com/LUCompSoc/brand/tree/master/logos/sticker) - This is better for **smaller use cases** (128x128 and below)
-<img src="./logos/sticker/compsoc-logo-sticker-1024x1024.png?raw=true" alt="Sticker Logo" height="128"/>
+<img src="/logos/sticker/compsoc-logo-sticker-1024x1024.png?raw=true" alt="Sticker Logo" height="128"/>
 
 ### Which Logo Should I Use?
 
