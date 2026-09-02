@@ -18,7 +18,7 @@ For consistency, you should prioritise using the **normal variant** over other v
 
 There are 1024 x 1024 pixel and 4096 x 4096 pixel versions available for all variants. In most cases 1024x1024 will be suitable! However 4096 px is provided for when detail matters (e.g. merchandise).
 
-# Credits
+### Credits
 
 All of these logo variations were made by [@Tyloxon](https://github.com/Tyloxon) using the [Affinity](https://www.affinity.studio/) program.
 
