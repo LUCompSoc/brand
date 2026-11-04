@@ -3,13 +3,13 @@
 ## Logos
 
 There are three variants of the logo provided:
-- [Minimal](/logos/minimal) - This should only be used for **tiny versions like the website favicon**
+- [Minimal](/logos/minimal) - This should only be used for small use-cases like the website favicon
 <img src="/logos/minimal/compsoc-logo-minimal-1024x1024.png?raw=true" alt="Minimal Logo" height="128"/>
 
-- [Light](/logos/light) - This is better on light backgrounds (above 128x128)
+- [Light](/logos/light) - This is better on light backgrounds
 <img src="/logos/light/compsoc-logo-light-1024x1024.png?raw=true" alt="Light Logo" height="128"/>
 
-- [Dark](/logos/dark) - This is better on dark backgrounds (128x128 and below)
+- [Dark](/logos/dark) - This is better on dark backgrounds
 <img src="/logos/dark/compsoc-logo-dark-1024x1024.png?raw=true" alt="Dark Logo" height="128"/>
 
 ### Which Logo Should I Use?
