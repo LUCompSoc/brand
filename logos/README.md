@@ -3,20 +3,20 @@
 ## Logos
 
 There are three variants of the logo provided:
-- [Bare](/logos/bare) - This should only be used for **tiny versions like the website favicon**
-<img src="/logos/bare/compsoc-logo-bare-1024x1024.png?raw=true" alt="Bare Logo" height="128"/>
+- [Minimal](/logos/minimal) - This should only be used for **tiny versions like the website favicon**
+<img src="/logos/minimal/compsoc-logo-minimal-1024x1024.png?raw=true" alt="Minimal Logo" height="128"/>
 
-- [Normal](/logos/normal) - This is better for **larger use cases** (above 128x128)
-<img src="/logos/normal/compsoc-logo-normal-1024x1024.png?raw=true" alt="Normal Logo" height="128"/>
+- [Light](/logos/light) - This is better on light backgrounds (above 128x128)
+<img src="/logos/light/compsoc-logo-light-1024x1024.png?raw=true" alt="Light Logo" height="128"/>
 
-- [Sticker](/logos/sticker) - This is better for **smaller use cases** (128x128 and below)
-<img src="/logos/sticker/compsoc-logo-sticker-1024x1024.png?raw=true" alt="Sticker Logo" height="128"/>
+- [Dark](/logos/dark) - This is better on dark backgrounds (128x128 and below)
+<img src="/logos/dark/compsoc-logo-dark-1024x1024.png?raw=true" alt="Dark Logo" height="128"/>
 
 ### Which Logo Should I Use?
 
-For consistency, you should prioritise using the **normal variant** over other variants - but if another variant looks particularly better for your specific use case, then use it.
+For calrity, you should prioritise using the **light variant** on lighter backgrounds and the **dark variant** on darker backgrounds.
 
-There are 1024 x 1024 pixel and 4096 x 4096 pixel versions available for all variants. In most cases 1024x1024 will be suitable! However 4096 px is provided for when detail matters (e.g. merchandise).
+There are 1024 x 1024 pixel and 4096 x 4096 pixel versions available for all variants. In most cases 1024x1024 will be suitable, but 4096x4096 px is provided for the cases when detail matters (e.g. physical merchandise).
 
 ### Credits
 
